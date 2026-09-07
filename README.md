@@ -1,4 +1,4 @@
- ##### SHRUTI'S MATH TOOL
+ ##### SHRUTI MATH TOOL
 
  This is a menu driven console project made by using c++ .
  It can perform different mathematical calculations, number analysis and unit conversion.
